@@ -1,0 +1,8 @@
+Tokenization is the process of breaking down 
+a sequence of text into smaller units called tokens,
+which can be words, phrases, or even individual characters.
+Tokenization is often the first step in natural languages processing tasks 
+such as text classification, named entity recognition, and sentiment analysis.
+The resulting tokens are typically used as input to further processing steps,
+such as vectorization, where the tokens are converted
+into numerical representations for machine learning models to use.

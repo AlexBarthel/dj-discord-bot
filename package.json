@@ -1,0 +1,29 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^18.0.6",
+        "axios": "^1.6.2",
+        "config.json": "^0.0.4",
+        "discord.js": "^14.7.1",
+        "exppress": "^0.0.1-security",
+        "express": "^4.18.2",
+        "firebase": "^11.0.1",
+        "firebase-admin": "^12.7.0",
+        "forever-monitor": "^3.0.3",
+        "groq-sdk": "^0.22.0",
+        "node-fetch": "^3.2.6",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {
+        "eslint": "^8.32.0"
+    }
+}
